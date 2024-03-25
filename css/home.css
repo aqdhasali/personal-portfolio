@@ -35,7 +35,6 @@ header.scrolled{
     -webkit-backdrop-filter: blur(10px);
     /* border: 1px solid  rgba(255,255,255,0.18); */
     box-shadow: 0 8px 32px 0 rgba(0,0,0,0.37);
-
 }
 
 a{
@@ -154,6 +153,8 @@ a{
     border-radius: 7px;
     max-height: 70%;
     max-width: 60%;
+    min-width: 50%;
+    min-height: 60%;
     margin-left: 30px;
     height:70%;
     width: 50%;
@@ -185,8 +186,6 @@ a{
     border-radius: 20px;
     border: 1px solid  rgba(255,255,255,0.18);
     box-shadow: 0 8px 32px 0 rgba(0,0,0,0.37);
-
-
 }
 
 
